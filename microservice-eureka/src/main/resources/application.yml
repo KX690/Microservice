@@ -1,0 +1,19 @@
+server:
+  port: 8761
+
+spring:
+  application:
+    name: mscv-eureka
+  config:
+    import: optional:configserver:http://localhost:8888
+
+eureka:
+  instance:
+    hostname: localhost
+  client:
+    register-With-Eureka: false
+    fetch-Registry: false
+    server-url:
+      defaultZone: http://localhost:${server.port}/eureka/
+
+
