@@ -4,8 +4,6 @@ server:
 spring:
   application:
     name: mscv-eureka
-  config:
-    import: optional:configserver:http://localhost:8888
 
 eureka:
   instance:
@@ -15,4 +13,5 @@ eureka:
     fetch-registry: false
     service-url:
       defaultZone: http://localhost:${server.port}/eureka/
+
 

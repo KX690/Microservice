@@ -5,7 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="14c50280-bdfd-4cd0-b0a8-9fa5f601bccf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/microservice-config/src/main/resources/configurations/msvc-course.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice-config/src/main/resources/configurations/msvc-eureka.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice-config/src/main/resources/configurations/msvc-gateway.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice-config/src/main/resources/configurations/msvc-students.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-config/src/main/java/com/microservice/config/MicroserviceConfigApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-config/src/main/java/com/microservice/config/MicroserviceConfigApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-config/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-config/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-course/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-course/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-course/src/main/java/com/microservice/course/client/StudentClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-course/src/main/java/com/microservice/course/client/StudentClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-course/src/main/java/com/microservice/course/service/CourseServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-course/src/main/java/com/microservice/course/service/CourseServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-course/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-course/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-eureka/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-eureka/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-gateway/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-gateway/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-gateway/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-gateway/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-student/src/main/java/com/microservice/student/controller/StudentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-student/src/main/java/com/microservice/student/controller/StudentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-student/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-student/src/main/resources/application.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +49,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.MicroserviceConfigApplication.executor": "Run",
+    "Application.MicroserviceCourseApplication.executor": "Run",
     "Application.MicroserviceEurekaApplication.executor": "Run",
+    "Application.MicroserviceGatewayApplication.executor": "Run",
     "Application.MicroserviceStudentApplication.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
