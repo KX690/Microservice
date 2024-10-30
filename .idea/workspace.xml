@@ -5,21 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="14c50280-bdfd-4cd0-b0a8-9fa5f601bccf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/microservice-config/src/main/resources/configurations/msvc-course.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-config/src/main/resources/configurations/msvc-eureka.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-config/src/main/resources/configurations/msvc-gateway.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-config/src/main/resources/configurations/msvc-students.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-config/src/main/java/com/microservice/config/MicroserviceConfigApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-config/src/main/java/com/microservice/config/MicroserviceConfigApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-config/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-config/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-course/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-course/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-config/src/main/resources/configurations/msvc-course.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-config/src/main/resources/configurations/msvc-eureka.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-config/src/main/resources/configurations/msvc-gateway.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-config/src/main/resources/configurations/msvc-students.yml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/microservice-course/src/main/java/com/microservice/course/client/StudentClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-course/src/main/java/com/microservice/course/client/StudentClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-course/src/main/java/com/microservice/course/controller/CourseController.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-course/src/main/java/com/microservice/course/controller/CourseController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/microservice-course/src/main/java/com/microservice/course/service/CourseServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-course/src/main/java/com/microservice/course/service/CourseServiceImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/microservice-course/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-course/src/main/resources/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/microservice-eureka/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-eureka/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-gateway/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-gateway/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-gateway/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-gateway/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-student/src/main/java/com/microservice/student/controller/StudentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-student/src/main/java/com/microservice/student/controller/StudentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-gateway/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-gateway/src/main/resources/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/microservice-student/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-student/src/main/resources/application.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,25 +44,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.MicroserviceConfigApplication.executor": "Run",
-    "Application.MicroserviceCourseApplication.executor": "Run",
-    "Application.MicroserviceEurekaApplication.executor": "Run",
-    "Application.MicroserviceGatewayApplication.executor": "Run",
-    "Application.MicroserviceStudentApplication.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/kx690/Escritorio/Microservice/PenguinMicroservice/microservice-course/src/main/java/com/microservice/course",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.MicroserviceConfigApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MicroserviceCourseApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MicroserviceEurekaApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MicroserviceGatewayApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MicroserviceStudentApplication.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/kx690/Escritorio/Microservice/PenguinMicroservice/microservice-course/src/main/java/com/microservice/course&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   },
-  "keyToStringList": {
-    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
-      "PLAIN_TEXT"
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;PLAIN_TEXT&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/microservice-course/src/main/java/com/microservice/course" />

@@ -10,7 +10,7 @@ import org.springframework.stereotype.Service;
 
 import java.util.List;
 @Service
-public class CourseServiceImpl implements ICourseService{
+public class CourseServiceImpl implements ICourseService {
 
     @Autowired
     private ICourseRepository courseRepository;
@@ -35,7 +35,6 @@ public class CourseServiceImpl implements ICourseService{
 
     @Override
     public StudentByCourseResponse findStudentsByCourse(Long idCourse) {
-
         Course course = courseRepository.findById(idCourse).orElse(new Course());
         List<StudentDTO> studentDTOList = studentClient.findAllStudentByCourse(idCourse);
         return StudentByCourseResponse.builder()
@@ -45,3 +44,4 @@ public class CourseServiceImpl implements ICourseService{
                 .build();
     }
 }
+
