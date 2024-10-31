@@ -6,8 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="14c50280-bdfd-4cd0-b0a8-9fa5f601bccf" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-gateway/src/main/java/com/microservice/gateway/MicroserviceGatewayApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-gateway/src/main/java/com/microservice/gateway/MicroserviceGatewayApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-gateway/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-gateway/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-config/src/main/resources/configurations/msvc-sdudent.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-course/src/main/java/com/microservice/course/client/StudentClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-course/src/main/java/com/microservice/course/client/StudentClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-student/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-student/src/main/resources/application.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
