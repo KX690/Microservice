@@ -25,7 +25,7 @@ public class CourseServiceImpl implements ICourseService {
 
     @Override
     public Course findById(Long id) {
-        return courseRepository.findById(id).orElse(null);
+        return courseRepository.findById(id).orElseThrow();
     }
 
     @Override

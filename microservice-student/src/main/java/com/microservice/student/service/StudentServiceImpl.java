@@ -20,7 +20,7 @@ public class StudentServiceImpl implements IStudenService {
 
     @Override
     public Student findById(Long id) {
-        return studentRepository.findById(id).orElse(null);
+        return studentRepository.findById(id).orElseThrow();
     }
 
     @Override

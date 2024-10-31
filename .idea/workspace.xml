@@ -5,18 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="14c50280-bdfd-4cd0-b0a8-9fa5f601bccf" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-config/src/main/resources/configurations/msvc-course.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-config/src/main/resources/configurations/msvc-eureka.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-config/src/main/resources/configurations/msvc-gateway.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-config/src/main/resources/configurations/msvc-students.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-config/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-config/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-config/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-config/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-course/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-course/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-course/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-course/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-course/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-course/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/microservice-course/src/main/java/com/microservice/course/client/StudentClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-course/src/main/java/com/microservice/course/client/StudentClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-course/src/main/java/com/microservice/course/controller/CourseController.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-course/src/main/java/com/microservice/course/controller/CourseController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/microservice-course/src/main/java/com/microservice/course/service/CourseServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-course/src/main/java/com/microservice/course/service/CourseServiceImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/microservice-course/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-course/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-eureka/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-eureka/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-eureka/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-eureka/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-eureka/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-eureka/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-gateway/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-gateway/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-gateway/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-gateway/mvnw.cmd" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/microservice-gateway/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-gateway/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-student/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-student/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-student/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-student/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-student/src/main/java/com/microservice/student/controller/StudentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-student/src/main/java/com/microservice/student/controller/StudentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-student/src/main/java/com/microservice/student/service/StudentServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-student/src/main/java/com/microservice/student/service/StudentServiceImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/microservice-student/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-student/src/main/resources/application.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
